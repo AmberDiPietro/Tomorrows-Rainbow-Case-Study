@@ -439,7 +439,7 @@
   
    .heuro {
     width: 100%;
-    max-width: 550px;
+    max-width: 450px;
    }
   
    .character {
@@ -477,6 +477,17 @@
   .p1 {
   font-style: italic;
   }
+
+  .CAP {
+    width: 100%;
+    max-width: 350px;
+  }
+
+  .trr, .trpp {
+    width: 100%;
+    max-width: 450px;
+  }
+
   
   .trW {
     width: 100%;
@@ -541,10 +552,15 @@
   .finalGif { 
     width: 100%;
     gap: 0px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     justify-content: center !important; 
     align-content: center !important;
+   }
+
+   .trfinalv {
+    width: 100%;
+    max-width: 800px;
    }
   
    .empathyPic {
