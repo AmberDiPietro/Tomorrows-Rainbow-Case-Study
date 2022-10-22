@@ -225,6 +225,7 @@
     .buttontest {
       border: none;
     }
+    a:hover { text-decoration: none; }
     /*----------overview-------------*/
     .Overview {
       width: 100%;
