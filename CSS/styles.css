@@ -368,10 +368,13 @@
   
     }
   
+    
     .processSection {
       background-color: transparent !important;
     }
   
+    #img1 {display: block;}
+  #img2 {display: none;}
     /*----------Content Section-------------*/
    .media { 
     width: 75%;
@@ -710,7 +713,6 @@ background-color:#1f1f1f;
   padding-left: 0px;
   padding-right: 0px;
 }
-
 .media {
   flex-wrap: wrap;
 }
@@ -722,6 +724,9 @@ background-color:#1f1f1f;
 .reverse {
   flex-wrap: wrap-reverse;
 }
+#img1 {display:block;}
+#img2 {display:none;}
+
 
 }
 
@@ -768,5 +773,10 @@ background-color:#1f1f1f;
   .fixme {
     display: none;
   }
+ 
+  #img1 {display: none;}
+  #img2 {display: block;}
+ 
+ 
    }
   
