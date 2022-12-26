@@ -592,10 +592,7 @@
    
   
    
-    /*----------Contact Section----------*/
-    
-    /*-----contact section-----*/
-
+  /*----------Contact Section----------*/
   .contactme {
    
     display: flex;
@@ -662,7 +659,7 @@ input[type=submit] {
 }
 
 /* Add a background color and some padding around the form */
-.containc {
+.CS {
   width: 100%;
  max-width: 600px;
   border-radius: 5px;
@@ -673,6 +670,7 @@ input[type=submit] {
 .GetinTouch {
   padding-bottom: 50px;
 }
+
 
 /*----footer----*/
 
