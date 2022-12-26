@@ -587,10 +587,10 @@
     letter-spacing: normal;
     text-align: center;
     color: #25282b;
-    padding-bottom: 5%;
    }
-   
-  
+   .lit {
+   width: 100%;
+   }
    
   /*----------Contact Section----------*/
   .contactme {
@@ -796,6 +796,10 @@ background-color:#1f1f1f;
   font-family: PlayfairDisplay;
     font-size: 30px;
     font-weight: bold;
+}
+
+.dr {
+  align-items: center;
 }
    }
   
